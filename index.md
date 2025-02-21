@@ -16,6 +16,26 @@ B.S. Information Science & Technology - University of Oklahoma\
 Google Cybersecurity Certification - Coursera\
 Security+ Certification (In Progress) - CompTIA
 
+# Projects
+
+## Cybersecurity Lab
+
+### Physical
+
+### Cloud
+
+## CTF Challenges
+
+## Networking
+
+## SIEM building
+
+## Honeypot
+
+## Malware Analysis
+
+## Scripting
+
 ## Header 2
 
 > This is a blockquote following a header.
