@@ -12,8 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Formal Education
 
-B.S. Information Science & Technology - University of Oklahoma
-Google Cybersecurity Certification - Coursera
+B.S. Information Science & Technology - University of Oklahoma\
+Google Cybersecurity Certification - Coursera\
 Security+ Certification (In Progress) - CompTIA
 
 ## Header 2
