@@ -6,7 +6,7 @@
 
 B.S. Information Science & Technology - University of Oklahoma\
 
---
+---
 
 # **Certifications**
 
