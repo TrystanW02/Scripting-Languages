@@ -42,7 +42,7 @@ Security+ Certification (In Progress) - CompTIA
 ### ◾ _Passive Reconnaissance_
 
 ### ◾ _Active Reconnaissance_
-#### _Using ping to check connectivity to the target system_
+#### ▫️ _Using ping to check connectivity to the target system_
 > This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
 
 Before running the script, be sure to install "pythonping"
@@ -70,7 +70,7 @@ Reply from 142.251.116.102, 29 bytes in 15.41ms
 Reply from 142.251.116.102, 29 bytes in 16.14ms
 ```
 ---
-#### _Finding details about your network interfaces and ports using netstat_
+#### ▫️ _Finding details about your network interfaces and ports using netstat_
 > This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
 
 Before running the script, be sure to install "psutil"
