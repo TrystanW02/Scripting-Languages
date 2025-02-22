@@ -5,7 +5,7 @@
   - BASH
   - Powershell
 - Hypervisors
-  - VirtualBBox
+  - VirtualBox
   - VMWare
 
 ---
