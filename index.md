@@ -39,6 +39,9 @@ Security+ Certification (In Progress) - CompTIA
 
 ## *Scripting*
 ![Octocat](https://github.com/TrystanW02/portfolio/blob/main/images/carbon.png)
+
+
+
 ---
 
 ### Header 3
