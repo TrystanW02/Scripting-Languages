@@ -69,6 +69,7 @@ Reply from 142.251.116.102, 29 bytes in 28.6ms
 Reply from 142.251.116.102, 29 bytes in 15.41ms
 Reply from 142.251.116.102, 29 bytes in 16.14ms
 ```
+---
 #### _Finding details about your network interfaces and ports using netstat_
 > This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
 
