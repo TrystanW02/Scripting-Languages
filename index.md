@@ -9,14 +9,14 @@
 
 # **Formal Education**
 
-B.S. Information Science & Technology - University of Oklahoma
+B.S. Information Science & Technology - University of Oklahoma\
 
 ---
 
 # **Certifications**
 
 Google Cybersecurity Certification - Coursera\
-Security+ Certification (In Progress) - CompTIA
+Security+ Certification (In Progress) - CompTIA\
 
 ---
 
