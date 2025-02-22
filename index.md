@@ -2,43 +2,48 @@
 
 ---
 
-# Formal Education
+# **Formal Education**
 
 B.S. Information Science & Technology - University of Oklahoma\
+
+--
+
+# **Certifications**
+
 Google Cybersecurity Certification - Coursera\
 Security+ Certification (In Progress) - CompTIA
 
 ---
 
-# Projects
+# **Projects**
 
 ---
 
-## Cybersecurity Lab
+## *Cybersecurity Lab*
 
 ---
 
-## CTF Challenges
+## *CTF Challenges*
 
 ---
 
-## Networking
+## *Networking*
 
 ---
 
-## SIEM building
+## *SIEM building*
 
 ---
 
-## Honeypot
+## *Honeypot*
 
 ---
 
-## Malware Analysis
+## *Malware Analysis*
 
 ---
 
-## Scripting
+## *Scripting*
 
 ---
 
