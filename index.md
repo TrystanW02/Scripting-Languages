@@ -10,11 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+---
+
 # Formal Education
 
 B.S. Information Science & Technology - University of Oklahoma\
 Google Cybersecurity Certification - Coursera\
 Security+ Certification (In Progress) - CompTIA
+
+---
 
 # Projects
 
