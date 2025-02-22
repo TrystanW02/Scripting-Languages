@@ -22,23 +22,35 @@ Security+ Certification (In Progress) - CompTIA
 
 # Projects
 
+---
+
 ## Cybersecurity Lab
 
-### Physical
-
-### Cloud
+---
 
 ## CTF Challenges
 
+---
+
 ## Networking
+
+---
 
 ## SIEM building
 
+---
+
 ## Honeypot
+
+---
 
 ## Malware Analysis
 
+---
+
 ## Scripting
+
+---
 
 ## Header 2
 
