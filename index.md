@@ -39,11 +39,11 @@ Security+ Certification (In Progress) - CompTIA
 
 ## *Scripting*
 
-### _Passive Reconnaissance_
+### ◾ _Passive Reconnaissance_
 
-### _Forensic Analysis_
+### ◾ _Forensic Analysis_
 
-### _Active Reconnaissance_
+### ◾ _Active Reconnaissance_
 _Using ping to check connectivity to the target system_
 
 > This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
