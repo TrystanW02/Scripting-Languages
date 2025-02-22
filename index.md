@@ -44,7 +44,7 @@ Security+ Certification (In Progress) - CompTIA
 ### ◾ _Forensic Analysis_
 
 ### ◾ _Active Reconnaissance_
-_**Using ping to check connectivity to the target system**_
+#### _Using ping to check connectivity to the target system_
 
 Before running the script, be sure to install "pythonping"
 
