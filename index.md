@@ -41,8 +41,6 @@ Security+ Certification (In Progress) - CompTIA
 
 ### ◾ _Passive Reconnaissance_
 
-### ◾ _Forensic Analysis_
-
 ### ◾ _Active Reconnaissance_
 #### _Using ping to check connectivity to the target system_
 > This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
@@ -71,6 +69,10 @@ Reply from 142.251.116.102, 29 bytes in 28.6ms
 Reply from 142.251.116.102, 29 bytes in 15.41ms
 Reply from 142.251.116.102, 29 bytes in 16.14ms
 ```
+...............................................................................................
+
+### ◾ _Forensic Analysis_
+
 ---
 ### Small image
 
