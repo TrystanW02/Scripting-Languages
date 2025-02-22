@@ -9,7 +9,7 @@
 
 # **Formal Education**
 
-B.S. Information Science & Technology - University of Oklahoma\
+B.S. Information Science & Technology - University of Oklahoma
 
 ---
 
