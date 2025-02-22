@@ -1,4 +1,9 @@
-<trystanwilliams2002@outlook.com>
+### ** Skills **
+
+- Scripting
+  - Python
+  - BASH
+  - Powershell
 
 ---
 
@@ -17,31 +22,17 @@ Security+ Certification (In Progress) - CompTIA
 
 # **Projects**
 
----
-
 ## *Cybersecurity Lab*
-
----
 
 ## *CTF Challenges*
 
----
-
 ## *Networking*
-
----
 
 ## *SIEM building*
 
----
-
 ## *Honeypot*
 
----
-
 ## *Malware Analysis*
-
----
 
 ## *Scripting*
 
@@ -90,17 +81,6 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 ### And an ordered list:
 
