@@ -64,6 +64,13 @@ if __name__ == "__main__":
     ping_check_connectivity.check_ping_connectivity('google.com')
 }
 ```
+##### _Output_
+```
+Reply from 142.251.116.102, 29 bytes in 16.43ms
+Reply from 142.251.116.102, 29 bytes in 28.6ms
+Reply from 142.251.116.102, 29 bytes in 15.41ms
+Reply from 142.251.116.102, 29 bytes in 16.14ms
+```
 ---
 ### Small image
 
