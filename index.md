@@ -41,7 +41,7 @@ Security+ Certification (In Progress) - CompTIA
 
 _Using ping to chheck connectivity to the target system_
 
-> This program nneeds to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
+> This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
 
 ```python
 from pythonping import ping
