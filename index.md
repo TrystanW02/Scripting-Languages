@@ -39,7 +39,7 @@ Security+ Certification (In Progress) - CompTIA
 
 ## *Scripting*
 
-_Using ping to chheck connectivity to the target system_
+_Using ping to check connectivity to the target system_
 
 > This program needs to be run as "administrator" or with "sudo" privileges; otherwise, it will fail
 
