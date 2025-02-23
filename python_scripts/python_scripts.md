@@ -4,5 +4,9 @@ Welcome to some of thhe python scripts I have built so far! I have gotten ideas 
 
 # _Passive Reconnaissance_ :mag:
 
-:small_orange_diamond: _Using "whois" to get information about an IP address or domain name_ 
+:small_orange_diamond: _Using "whois" to get information about an IP address or domain name_
+```
+pip3 install python-whois
+
+```
 
