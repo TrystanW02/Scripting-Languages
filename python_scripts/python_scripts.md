@@ -8,4 +8,4 @@ Welcome to some of thhe python scripts I have built so far! I have gotten ideas 
 ```bash
 pip3 install python-whois
 ```
-
+[More info and code available here :open_file_folder:](https://github.com/TrystanW02/portfolio/tree/main/python_scripts/passive_reconnaissance/whois_info)
