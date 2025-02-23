@@ -6,7 +6,6 @@ Welcome to some of thhe python scripts I have built so far! I have gotten ideas 
 
 :small_orange_diamond: _Using "whois" to get information about an IP address or domain name_
 ```bash
-                              pip3 install python-whois
-
+pip3 install python-whois
 ```
 
