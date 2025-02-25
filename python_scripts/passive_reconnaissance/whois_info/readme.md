@@ -3,7 +3,8 @@
 
 # _Output_
 
-`{
+```bash
+{
 "domain_name": "[GOOGLE.COM](http://google.com/)",
 "registrar": "MarkMonitor, Inc.",
 "registrar_url": "[http://www.markmonitor.com](http://www.markmonitor.com/)",
@@ -59,4 +60,5 @@
 "state": "CA",
 "registrant_postal_code": null,
 "country": "US"
-}`
+}
+```
