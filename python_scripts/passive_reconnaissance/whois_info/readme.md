@@ -109,7 +109,7 @@ whois_info = ws.whois(host)
 * The function fetches WHOIS details for the given domain (host).
 * The details include information like:
 * Domain name
-- Registrar
-- Registration date
-- Expiry date
-- Name servers, etc.
+    - Registrar
+    - Registration date
+    - Expiry date
+    - Name servers, etc.
