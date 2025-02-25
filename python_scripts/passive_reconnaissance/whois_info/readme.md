@@ -113,3 +113,32 @@ whois_info = ws.whois(host)
     - Registration date
     - Expiry date
     - Name servers, etc.
+
+## 6. Printing the WHOIS Information
+```python
+print(whois_info)
+```
+
+## 7. Running the Script (Main Execution Block)
+```python
+if __name__ == "__main__":
+```
+
+* This ensures that the code inside runs **only if** the script is executed directly.
+* If imported as a module elsewhere, this block will not run.
+
+## 8. Creating an Instance of `WhoisInfo`
+```python
+whois_info = WhoisInfo()
+```
+
+* Creates an instance of the WhoisInfo class.
+
+## 9. Clling `print_whois_info` with "google.com"
+```python
+whois_info.print_whois_info("google.com")
+```
+
+* Calls the `print_whois_info` method on `whois_info` object.
+* Passes `"google.com"` as the argument.
+* This will print the WHOIS details of **Google’s domain**.
