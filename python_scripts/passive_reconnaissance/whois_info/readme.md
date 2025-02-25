@@ -65,7 +65,7 @@
 
 # _Line Breakdown_
 
-1. Importing the `whois` Module
+## 1. Importing the `whois` Module
 ```python
 import whois as ws
 ```
@@ -73,7 +73,9 @@ import whois as ws
 * The `whois` module is imported, which allows querying WHOIS information for a domain.
 * `as ws` is an alias, meaning we can refer to `whois` as `ws` throughout the code.
 
-2. Defining the `WhoisInfo` Class
+
+
+## 2. Defining the `WhoisInfo` Class
 ```python
 class WhoisInfo:
 ```
