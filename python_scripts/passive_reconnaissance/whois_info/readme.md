@@ -73,8 +73,6 @@ import whois as ws
 * The `whois` module is imported, which allows querying WHOIS information for a domain.
 * `as ws` is an alias, meaning we can refer to `whois` as `ws` throughout the code.
 
-
-
 ## 2. Defining the `WhoisInfo` Class
 ```python
 class WhoisInfo:
@@ -82,3 +80,12 @@ class WhoisInfo:
 
 * A class named `WhoisInfo` is created.
 * This class is responsible for handling WHOIS lookups.
+
+## 3. Defining the `print_whois_info` Method
+```python
+def print_whois_info(self, host):
+```
+
+* This method is defined inside the `WhoisInfo` class.
+* `self` refers to the instance of the class.
+* The method takes `host` as a parameter, which is the domain name to look up.
