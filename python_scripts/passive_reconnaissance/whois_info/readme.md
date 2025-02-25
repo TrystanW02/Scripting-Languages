@@ -93,9 +93,23 @@ def print_whois_info(self, host):
 ## 4. Method Docstring
 ```python
 """
-host: Host that you want the whois details for.
+    host: Host that you want the whois details for.
 """
 ```
 
 * This is a **docstring**, which provides information about the method.
 * It explains that `host` is the domain name whose WHOIS information will be retrieved.
+
+## 5. Fetchinng WHOIS Information
+```python
+whois_info = ws.whois(host)
+```
+
+* Calls the whois function from the whois module (aliased as ws).
+* The function fetches WHOIS details for the given domain (host).
+* The details include information like:
+* Domain name
+- Registrar
+- Registration date
+- Expiry date
+- Name servers, etc.
