@@ -89,3 +89,13 @@ def print_whois_info(self, host):
 * This method is defined inside the `WhoisInfo` class.
 * `self` refers to the instance of the class.
 * The method takes `host` as a parameter, which is the domain name to look up.
+
+## 4. Method Docstring
+```python
+"""
+host: Host that you want the whois details for.
+"""
+```
+
+* This is a **docstring**, which provides information about the method.
+* It explains that `host` is the domain name whose WHOIS information will be retrieved.
