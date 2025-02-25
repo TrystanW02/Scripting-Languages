@@ -3,7 +3,7 @@
 
 # _Output_
 
-```bash
+```
 {
 "domain_name": "[GOOGLE.COM](http://google.com/)",
 "registrar": "MarkMonitor, Inc.",
@@ -62,6 +62,7 @@
 "country": "US"
 }
 ```
+
 # _Line Breakdown_
 
 1. Importing the `whois` Module
@@ -71,3 +72,11 @@ import whois as ws
 
 * The `whois` module is imported, which allows querying WHOIS information for a domain.
 * `as ws` is an alias, meaning we can refer to `whois` as `ws` throughout the code.
+
+2. Defining the `WhoisInfo` Class
+```python
+class WhoisInfo:
+```
+
+* A class named `WhoisInfo` is created.
+* This class is responsible for handling WHOIS lookups.
